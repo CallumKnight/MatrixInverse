@@ -3,7 +3,7 @@ Calculates the inverse of a given matrix of any size.
 
 This program is designed using vector notation.
 
-It has developed with simplicity and readability in mind.
+It was developed with simplicity and readability in mind.
 
 The algorithm contains two main components: 
 1. Inverse function.
