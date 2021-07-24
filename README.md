@@ -1,5 +1,5 @@
 # MatrixInverse
-Calculates the inverse of a given matrix of any size.
+C++ program which calculates the inverse of a given matrix of any size.
 
 This program is designed using vector notation.
 
